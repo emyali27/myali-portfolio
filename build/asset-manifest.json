@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myali-portfolio/static/css/main.1a9694a4.css",
+    "main.js": "/myali-portfolio/static/js/main.b9d6b654.js",
+    "static/js/787.2fd666da.chunk.js": "/myali-portfolio/static/js/787.2fd666da.chunk.js",
+    "static/media/helvetica-neu.ttf": "/myali-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/myali-portfolio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/myali-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/myali-portfolio/static/media/logo-s.980267c5e7ff8fcca1f1.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/myali-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/myali-portfolio/index.html",
+    "main.1a9694a4.css.map": "/myali-portfolio/static/css/main.1a9694a4.css.map",
+    "main.b9d6b654.js.map": "/myali-portfolio/static/js/main.b9d6b654.js.map",
+    "787.2fd666da.chunk.js.map": "/myali-portfolio/static/js/787.2fd666da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9694a4.css",
+    "static/js/main.b9d6b654.js"
+  ]
+}
